@@ -1,1 +1,813 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: my\n"
+"Language: ar\n"
+
+#: /var/www/osclass-themes-git/bender/404.php:8
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "عذراً , ولكن لم نستطيع جلب الصفحة ."
+
+#: /var/www/osclass-themes-git/bender/404.php:10
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "دعنا نساعدك ببعض الخطوات"
+
+#: /var/www/osclass-themes-git/bender/404.php:13
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>بحث</strong>: "
+
+#: /var/www/osclass-themes-git/bender/404.php:18
+#: /var/www/osclass-themes-git/bender/header.php:69
+msgid "Search"
+msgstr "بحث"
+
+#: /var/www/osclass-themes-git/bender/404.php:22
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>عرض</strong> في اشهر التصنيفات"
+
+#: /var/www/osclass-themes-git/bender/alert-form.php:27
+msgid "You have sucessfully subscribed to the alert"
+msgstr "تم إشتراكك بنجاح في التنبيه"
+
+#: /var/www/osclass-themes-git/bender/alert-form.php:28
+msgid "Invalid email address"
+msgstr "خطأ في البريد"
+
+#: /var/www/osclass-themes-git/bender/alert-form.php:29
+msgid "There was a problem with the alert"
+msgstr "هنالك مشكلة بالتنبيه"
+
+#: /var/www/osclass-themes-git/bender/alert-form.php:60
+msgid "Subscribe to this search"
+msgstr "اشترك بهذا البحث"
+
+#: /var/www/osclass-themes-git/bender/alert-form.php:75
+msgid "Subscribe now"
+msgstr "اشترك الان"
+
+#: /var/www/osclass-themes-git/bender/contact.php:31
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+#: /var/www/osclass-themes-git/bender/contact.php:40
+#: /var/www/osclass-themes-git/bender/item-send-friend.php:44
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:76
+#: /var/www/osclass-themes-git/bender/item.php:187
+msgid "Your name"
+msgstr "اسمك"
+
+#: /var/www/osclass-themes-git/bender/contact.php:41
+#: /var/www/osclass-themes-git/bender/contact.php:54
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:84
+msgid "optional"
+msgstr "اختياري"
+
+#: /var/www/osclass-themes-git/bender/contact.php:47
+msgid "Your email address"
+msgstr "بريدك"
+
+#: /var/www/osclass-themes-git/bender/contact.php:53
+msgid "Subject"
+msgstr "العنوان"
+
+#: /var/www/osclass-themes-git/bender/contact.php:60
+#: /var/www/osclass-themes-git/bender/item-send-friend.php:78
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:89
+msgid "Message"
+msgstr "الرسالة"
+
+#: /var/www/osclass-themes-git/bender/contact.php:68
+#: /var/www/osclass-themes-git/bender/item-send-friend.php:87
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:112
+#: /var/www/osclass-themes-git/bender/item.php:212
+msgid "Send"
+msgstr "إرسال"
+
+#: /var/www/osclass-themes-git/bender/footer.php:32
+#: /var/www/osclass-themes-git/bender/header.php:41
+msgid "Hi %s"
+msgstr "اهلا وسهلا %s"
+
+#: /var/www/osclass-themes-git/bender/footer.php:33
+#: /var/www/osclass-themes-git/bender/functions.php:349
+#: /var/www/osclass-themes-git/bender/header.php:42
+msgid "My account"
+msgstr "حسابي"
+
+#: /var/www/osclass-themes-git/bender/footer.php:34
+#: /var/www/osclass-themes-git/bender/header.php:43
+msgid "Logout"
+msgstr "تسجيل خروج"
+
+#: /var/www/osclass-themes-git/bender/footer.php:37
+#: /var/www/osclass-themes-git/bender/functions.php:325
+#: /var/www/osclass-themes-git/bender/header.php:46
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:54
+msgid "Login"
+msgstr "دخول"
+
+#: /var/www/osclass-themes-git/bender/footer.php:40
+#: /var/www/osclass-themes-git/bender/header.php:48
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:55
+msgid "Register for a free account"
+msgstr "تسجيل حساب مجاني"
+
+#: /var/www/osclass-themes-git/bender/footer.php:45
+#: /var/www/osclass-themes-git/bender/header.php:51
+msgid "Publish your ad for free"
+msgstr "انشر إعلانك مجاناً"
+
+#: /var/www/osclass-themes-git/bender/footer.php:59
+#: /var/www/osclass-themes-git/bender/functions.php:329
+msgid "Contact"
+msgstr "اتصل بنا"
+
+#: /var/www/osclass-themes-git/bender/footer.php:69
+msgid "Language:"
+msgstr "اللغة"
+
+#: /var/www/osclass-themes-git/bender/functions.php:29
+#: /var/www/osclass-themes-git/bender/functions.php:44
+msgid "ie. PHP Programmer"
+msgstr "مثال : مبرمج "
+
+#: /var/www/osclass-themes-git/bender/functions.php:155
+#: /var/www/osclass-themes-git/bender/item.php:67
+msgid "Edit item"
+msgstr "تعديل عنصر"
+
+#: /var/www/osclass-themes-git/bender/functions.php:157
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "لا يمكن التراجع من هذا الخيار , هل انت موافق ؟"
+
+#: /var/www/osclass-themes-git/bender/functions.php:157
+#: /var/www/osclass-themes-git/bender/item.php:161
+msgid "Delete"
+msgstr "حذف"
+
+#: /var/www/osclass-themes-git/bender/functions.php:160
+msgid "Activate"
+msgstr "تفعيل"
+
+#: /var/www/osclass-themes-git/bender/functions.php:310
+#: /var/www/osclass-themes-git/bender/item-post.php:40
+msgid "Publish a listing"
+msgstr "نشر"
+
+#: /var/www/osclass-themes-git/bender/functions.php:311
+msgid "Edit your listing"
+msgstr "تعديل"
+
+#: /var/www/osclass-themes-git/bender/functions.php:312
+#: /var/www/osclass-themes-git/bender/item-send-friend.php:31
+msgid "Send to a friend"
+msgstr "إرسال لصديق"
+
+#: /var/www/osclass-themes-git/bender/functions.php:313
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:40
+msgid "Contact publisher"
+msgstr "راسل الناشر"
+
+#: /var/www/osclass-themes-git/bender/functions.php:314
+msgid "Search results"
+msgstr "نتيجة البحث"
+
+#: /var/www/osclass-themes-git/bender/functions.php:315
+msgid "Search results: %s"
+msgstr "نتيجة البحث : %s"
+
+#: /var/www/osclass-themes-git/bender/functions.php:316
+#: /var/www/osclass-themes-git/bender/functions.php:339
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+#: /var/www/osclass-themes-git/bender/functions.php:317
+msgid "%s's profile"
+msgstr "%s الملف الشخصي"
+
+#: /var/www/osclass-themes-git/bender/functions.php:318
+msgid "Account"
+msgstr "الحساب"
+
+#: /var/www/osclass-themes-git/bender/functions.php:319
+msgid "My listings"
+msgstr "إعلاناتى"
+
+#: /var/www/osclass-themes-git/bender/functions.php:320
+#: /var/www/osclass-themes-git/bender/functions.php:344
+msgid "My searches"
+msgstr "سجل البحث"
+
+#: /var/www/osclass-themes-git/bender/functions.php:321
+msgid "Update my account"
+msgstr "تحديث حسابي"
+
+#: /var/www/osclass-themes-git/bender/functions.php:322
+msgid "Change my email"
+msgstr "تغيير البريد"
+
+#: /var/www/osclass-themes-git/bender/functions.php:323
+msgid "Change my username"
+msgstr "تغيير اسم المستخدم"
+
+#: /var/www/osclass-themes-git/bender/functions.php:324
+msgid "Change my password"
+msgstr "تغيير كلمة المرور"
+
+#: /var/www/osclass-themes-git/bender/functions.php:326
+msgid "Recover your password"
+msgstr "إستعادة كلمة المرور"
+
+#: /var/www/osclass-themes-git/bender/functions.php:327
+msgid "Change your password"
+msgstr "تغيير كلمة المرور"
+
+#: /var/www/osclass-themes-git/bender/functions.php:328
+msgid "Create a new account"
+msgstr "انشئ حساب جديد"
+
+#: /var/www/osclass-themes-git/bender/functions.php:354
+msgid "Change email"
+msgstr "تغيير البريد"
+
+#: /var/www/osclass-themes-git/bender/functions.php:359
+msgid "Change username"
+msgstr "تغيير اسم المستخدم"
+
+#: /var/www/osclass-themes-git/bender/functions.php:364
+msgid "Change password"
+msgstr "تغيير كلمة المرور"
+
+#: /var/www/osclass-themes-git/bender/functions.php:369
+msgid "Delete account"
+msgstr "حذف حساب"
+
+#: /var/www/osclass-themes-git/bender/functions.php:422
+msgid "Theme settings updated correctly"
+msgstr "تم تحديث إعدادات القالب نجاح"
+
+#: /var/www/osclass-themes-git/bender/functions.php:429
+msgid "The logo image has been uploaded correctly"
+msgstr "تم رفع الشعار بنجاح"
+
+#: /var/www/osclass-themes-git/bender/functions.php:431
+#: /var/www/osclass-themes-git/bender/functions.php:434
+msgid "An error has occurred, please try again"
+msgstr "قام النظام بإكتشاف خطاء , الرجاء المحاولة لاحقاً "
+
+#: /var/www/osclass-themes-git/bender/functions.php:441
+msgid "The logo image has been removed"
+msgstr "تم حذف الشعار"
+
+#: /var/www/osclass-themes-git/bender/functions.php:443
+msgid "Image not found"
+msgstr "لا توجد صورة"
+
+#: /var/www/osclass-themes-git/bender/functions.php:450
+msgid "Header logo"
+msgstr "صورة الهيدر"
+
+#: /var/www/osclass-themes-git/bender/functions.php:451
+msgid "Theme settings"
+msgstr "إعدادات القالب"
+
+#: /var/www/osclass-themes-git/bender/header.php:63
+#: /var/www/osclass-themes-git/bender/item-post.php:55
+msgid "Select a category"
+msgstr "اختر تصنيف"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:51
+msgid "General Information"
+msgstr "المعلومات العامة"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:53
+#: /var/www/osclass-themes-git/bender/search-sidebar.php:69
+msgid "Category"
+msgstr "التصنيف"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:59
+#: /var/www/osclass-themes-git/bender/item.php:200
+msgid "Title"
+msgstr "العنوان"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:65
+msgid "Description"
+msgstr "الوصف"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:73
+#: /var/www/osclass-themes-git/bender/search-sidebar.php:57
+msgid "Price"
+msgstr "السعر"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:83
+#: /var/www/osclass-themes-git/bender/item-post.php:86
+msgid "Photos"
+msgstr "الصور"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:93
+msgid "Add new photo"
+msgstr "اضف صورة جديدة"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:100
+msgid "Listing Location"
+msgstr "مكان الإعلان"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:103
+msgid "Country"
+msgstr "الدولة"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:109
+msgid "Region"
+msgstr "المنطقة"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:115
+#: /var/www/osclass-themes-git/bender/search-sidebar.php:40
+msgid "City"
+msgstr "المدنية"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:121
+msgid "City Area"
+msgstr "نطاق المدينة"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:127
+msgid "Address"
+msgstr "العنوان"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:136
+msgid "Seller's information"
+msgstr "معلومات البائع"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:138
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:59
+msgid "Name"
+msgstr "الاسم"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:144
+msgid "E-mail"
+msgstr "البريد"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:151
+msgid "Show e-mail on the listing page"
+msgstr "عرض البريد في صفحة الإعلان"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:164
+msgid "Update"
+msgstr "تحديث"
+
+#: /var/www/osclass-themes-git/bender/item-post.php:164
+msgid "Publish"
+msgstr "نشر"
+
+#: /var/www/osclass-themes-git/bender/item-send-friend.php:50
+#: /var/www/osclass-themes-git/bender/item.php:193
+msgid "Your e-mail"
+msgstr "بريدك"
+
+#: /var/www/osclass-themes-git/bender/item-send-friend.php:57
+msgid "Your friend's name"
+msgstr "اسم صديقك"
+
+#: /var/www/osclass-themes-git/bender/item-send-friend.php:63
+msgid "Your friend's e-mail address"
+msgstr "بريد صديقك "
+
+#: /var/www/osclass-themes-git/bender/item-send-friend.php:70
+msgid "Subject (optional)"
+msgstr "العنوان (اختياري)"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:30
+msgid "Mark as..."
+msgstr "تعليم كـ "
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:31
+msgid "Mark as spam"
+msgstr "علامة كدعاية"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:32
+msgid "Mark as misclassified"
+msgstr "إجعلها أساء تصنيف"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:33
+msgid "Mark as duplicated"
+msgstr "إجعلها تتكرر"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:34
+msgid "Mark as expired"
+msgstr "إجعلها منتهية الصلاحية"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:35
+msgid "Mark as offensive"
+msgstr "إجعلها هجوم"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:43
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "انتهت مدة صلاحية الإعلان. لا يمكنك الاتصال الناشر."
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:47
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "انها الإدراج الخاصة بك، لا يمكنك الاتصال الناشر."
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:51
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "يجب عليك تسجيل الدخول أو تسجيل حساب جديد من أجل الاتصال المعلن"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:61
+msgid "Name: %s"
+msgstr "الاسم:٪ ق"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:64
+msgid "E-mail: %s"
+msgstr "البريد الإلكتروني:٪ ق"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:67
+msgid "Phone: %s"
+msgstr "الهاتف:٪ ق"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:80
+msgid "Your e-mail address"
+msgstr "عنوان بريدك الإلكتروني"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:84
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:106
+msgid "Enter the words above"
+msgstr "أدخل الكلمات أعلاه"
+
+#: /var/www/osclass-themes-git/bender/item-sidebar.php:108
+msgid "Help"
+msgstr "مساعدة"
+
+#: /var/www/osclass-themes-git/bender/item.php:55
+msgid "<strong class=\"publish\">Published date</strong>: %1$s"
+msgstr "<strong class=\"publish\">تاريخ النشر</strong>: %1$s "
+
+#: /var/www/osclass-themes-git/bender/item.php:58
+msgid "<strong class=\"update\">Modified date:</strong> %1$s"
+msgstr "<strong class=\"update\">تاريخ التعديل</strong> %1$s "
+
+#: /var/www/osclass-themes-git/bender/item.php:61
+#: /var/www/osclass-themes-git/bender/main.php:65
+msgid "Location"
+msgstr "الموقع"
+
+#: /var/www/osclass-themes-git/bender/item.php:76
+#: /var/www/osclass-themes-git/bender/item.php:81
+msgid "Image"
+msgstr "صورة"
+
+#: /var/www/osclass-themes-git/bender/item.php:110
+msgid "Contact seller"
+msgstr "إتصل بالبائع"
+
+#: /var/www/osclass-themes-git/bender/item.php:114
+msgid "Share"
+msgstr "حصة"
+
+#: /var/www/osclass-themes-git/bender/item.php:120
+msgid "Useful information"
+msgstr "معلومات مفيدة"
+
+#: /var/www/osclass-themes-git/bender/item.php:122
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "تجنب عمليات الاحتيال من خلال العمل محليا أو دفع مع باي بال"
+
+#: /var/www/osclass-themes-git/bender/item.php:123
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "أبدا دفع مع ويسترن يونيون، مونيغرام أو خدمات الدفع الأخرى مجهولة المصدر"
+
+#: /var/www/osclass-themes-git/bender/item.php:124
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "لا تشتري أو تبيع خارج بلدك. لا نقبل الشيكات أمين الصندوق من خارج بلدك"
+
+#: /var/www/osclass-themes-git/bender/item.php:125
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "وتشارك في هذا الموقع أبدا في أي صفقة، ولا يعالج المدفوعات، والشحن، والمعاملات الضمان، تقديم خدمات الضمان، أو تقديم \"حماية المشتري\" أو \"شهادة البائع\""
+
+#: /var/www/osclass-themes-git/bender/item.php:132
+msgid "Related listings"
+msgstr "القوائم ذات الصلة"
+
+#: /var/www/osclass-themes-git/bender/item.php:150
+msgid "Comments"
+msgstr "تعليقات"
+
+#: /var/www/osclass-themes-git/bender/item.php:157
+msgid "by"
+msgstr "بواسطة"
+
+#: /var/www/osclass-themes-git/bender/item.php:161
+msgid "Delete your comment"
+msgstr "حذف تعليقك"
+
+#: /var/www/osclass-themes-git/bender/item.php:173
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "ترك تعليقك (ستتم إزالة الرسائل غير المرغوب فيها والهجومية)"
+
+#: /var/www/osclass-themes-git/bender/item.php:206
+msgid "Comment"
+msgstr "تعليق"
+
+#: /var/www/osclass-themes-git/bender/main.php:30
+msgid "Latest job offers"
+msgstr "أحدث عروض العمل"
+
+#: /var/www/osclass-themes-git/bender/main.php:32
+msgid "There aren't job offers available at this moment"
+msgstr "هناك تقدم لا العمل المتاحة في هذه اللحظة"
+
+#: /var/www/osclass-themes-git/bender/main.php:36
+msgid "List"
+msgstr "قائمة"
+
+#: /var/www/osclass-themes-git/bender/main.php:37
+msgid "Grid"
+msgstr "شبكة"
+
+#: /var/www/osclass-themes-git/bender/main.php:55
+msgid "See all offers"
+msgstr "الاطلاع على كل العروض"
+
+#: /var/www/osclass-themes-git/bender/search-sidebar.php:34
+msgid "Your search"
+msgstr "بحثك"
+
+#: /var/www/osclass-themes-git/bender/search-sidebar.php:47
+msgid "Show only"
+msgstr "تظهر فقط"
+
+#: /var/www/osclass-themes-git/bender/search-sidebar.php:50
+msgid "Show only items with pictures"
+msgstr "إظهار العناصر فقط مع الصور"
+
+#: /var/www/osclass-themes-git/bender/search-sidebar.php:58
+msgid "Min"
+msgstr "دقيقة"
+
+#: /var/www/osclass-themes-git/bender/search-sidebar.php:60
+msgid "Max"
+msgstr "ماكس"
+
+#: /var/www/osclass-themes-git/bender/search-sidebar.php:100
+msgid "Apply"
+msgstr "تطبق"
+
+#: /var/www/osclass-themes-git/bender/search.php:47
+msgid "There are no results matching \"%s\""
+msgstr "لا توجد نتائج مطابقة \"٪ ق\""
+
+#: /var/www/osclass-themes-git/bender/search.php:54
+msgid "Show filters"
+msgstr "إظهار عوامل التصفية"
+
+#: /var/www/osclass-themes-git/bender/search.php:80
+msgid "Other searches that may interest you"
+msgstr "عمليات البحث الأخرى التي قد تهمك"
+
+#: /var/www/osclass-themes-git/bender/user-alerts.php:35
+msgid "You do not have any alerts yet"
+msgstr "ليس لديك أي تنبيهات بعد"
+
+#: /var/www/osclass-themes-git/bender/user-alerts.php:42
+msgid "Alert"
+msgstr "إنذار"
+
+#: /var/www/osclass-themes-git/bender/user-alerts.php:42
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "لا يمكن التراجع عن هذا الإجراء. هل أنت متأكد أنك تريد المتابعة؟"
+
+#: /var/www/osclass-themes-git/bender/user-alerts.php:42
+msgid "Delete this alert"
+msgstr "حذف هذا التنبيه"
+
+#: /var/www/osclass-themes-git/bender/user-alerts.php:49
+msgid "Listings"
+msgstr "قوائم"
+
+#: /var/www/osclass-themes-git/bender/user-change_email.php:34
+msgid "Change your e-mail"
+msgstr "تغيير البريد الإلكتروني الخاص بك"
+
+#: /var/www/osclass-themes-git/bender/user-change_email.php:42
+msgid "Current e-mail"
+msgstr "الحالي البريد الإلكتروني"
+
+#: /var/www/osclass-themes-git/bender/user-change_email.php:48
+msgid "New e-mail"
+msgstr "جديد البريد الإلكتروني"
+
+#: /var/www/osclass-themes-git/bender/user-change_password.php:41
+msgid "Current password"
+msgstr "كلمة المرور الحالية"
+
+#: /var/www/osclass-themes-git/bender/user-change_password.php:47
+#: /var/www/osclass-themes-git/bender/user-forgot_password.php:39
+msgid "New password"
+msgstr "كلمة المرور الجديدة"
+
+#: /var/www/osclass-themes-git/bender/user-change_password.php:53
+#: /var/www/osclass-themes-git/bender/user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr "كرر كلمة مرور جديدة"
+
+#: /var/www/osclass-themes-git/bender/user-change_username.php:35
+msgid "Change your username"
+msgstr "تغيير اسم المستخدم الخاص بك"
+
+#: /var/www/osclass-themes-git/bender/user-change_username.php:46
+msgid "Username: this field is required"
+msgstr "اسم المستخدم: هذا الحقل مطلوب"
+
+#: /var/www/osclass-themes-git/bender/user-change_username.php:71
+msgid "The username is available"
+msgstr "اسم المستخدم متاح"
+
+#: /var/www/osclass-themes-git/bender/user-change_username.php:73
+msgid "The username is NOT available"
+msgstr "اسم المستخدم غير متوفر"
+
+#: /var/www/osclass-themes-git/bender/user-change_username.php:90
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: /var/www/osclass-themes-git/bender/user-dashboard.php:43
+msgid "No listings have been added yet"
+msgstr "لم يتم إضافة أي قوائم حتى الآن"
+
+#: /var/www/osclass-themes-git/bender/user-login.php:30
+msgid "Access to your account"
+msgstr "الوصول إلى حسابك"
+
+#: /var/www/osclass-themes-git/bender/user-login.php:44
+#: /var/www/osclass-themes-git/bender/user-register.php:52
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: /var/www/osclass-themes-git/bender/user-login.php:51
+msgid "Remember me"
+msgstr "تذكرنى"
+
+#: /var/www/osclass-themes-git/bender/user-login.php:54
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: /var/www/osclass-themes-git/bender/user-login.php:58
+msgid "Forgot password?"
+msgstr "هل نسيت كلمة المرور؟"
+
+#: /var/www/osclass-themes-git/bender/user-profile.php:33
+msgid "Update your profile"
+msgstr "تحديث ملفك الشخصي"
+
+#: /var/www/osclass-themes-git/bender/user-profile.php:48
+msgid "User type"
+msgstr "نوع المستخدم"
+
+#: /var/www/osclass-themes-git/bender/user-profile.php:54
+msgid "Cell phone"
+msgstr "الهاتف الخلوي"
+
+#: /var/www/osclass-themes-git/bender/user-profile.php:60
+msgid "Phone"
+msgstr "هاتف"
+
+#: /var/www/osclass-themes-git/bender/user-profile.php:84
+msgid "City area"
+msgstr "منطقة المدينة"
+
+#: /var/www/osclass-themes-git/bender/user-profile.php:96
+msgid "Website"
+msgstr "الموقع"
+
+#: /var/www/osclass-themes-git/bender/user-public-profile.php:67
+msgid "<strong>Address:</strong> %1$s"
+msgstr "<strong>العنوان</strong> %1$s "
+
+#: /var/www/osclass-themes-git/bender/user-public-profile.php:70
+msgid "<strong>Location:</strong> %1$s"
+msgstr "<strong>الموقع</strong> %1$s "
+
+#: /var/www/osclass-themes-git/bender/user-public-profile.php:75
+msgid "User description"
+msgstr "وصف العضو"
+
+#: /var/www/osclass-themes-git/bender/user-public-profile.php:80
+msgid "Latest listings"
+msgstr "أحدث قوائم"
+
+#: /var/www/osclass-themes-git/bender/user-recover.php:45
+msgid "Send me a new password"
+msgstr "ارسل لي كلمة سر جديدة"
+
+#: /var/www/osclass-themes-git/bender/user-register.php:31
+msgid "Register an account for free"
+msgstr "تسجيل حساب جديد مجانا"
+
+#: /var/www/osclass-themes-git/bender/user-register.php:58
+msgid "Repeat password"
+msgstr "كرر كلمة السر"
+
+#: /var/www/osclass-themes-git/bender/user-register.php:62
+msgid "Passwords don't match"
+msgstr "لا تتطابق كلمات المرور"
+
+#: /var/www/osclass-themes-git/bender/user-register.php:69
+msgid "Create"
+msgstr "خلق"
+
+#: /var/www/osclass-themes-git/bender/user-sidebar.php:23
+msgid "Display menu"
+msgstr "القائمة عرض"
+
+#: /var/www/osclass-themes-git/bender/user-sidebar.php:29
+msgid "Are you sure you want to delte your account?"
+msgstr "هل أنت متأكد أنك تريد delte حسابك؟"
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:10
+msgid "Preview"
+msgstr "معاينة"
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:17
+msgid "Remove logo"
+msgstr "إزالة شعار"
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:25
+msgid "No logo has been uploaded yet"
+msgstr "تم تحميل أي شعار حتى الآن"
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:28
+msgid "Upload logo"
+msgstr "تحميل الشعار"
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:30
+msgid "The preferred size of the logo is 600x100."
+msgstr "حجم المفضل للشعار هو 600x100."
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:32
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>ملاحظة</strong> سوف يتم إستبدال الحالي  "
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:40
+msgid "Logo image (png,gif,jpg)"
+msgstr "صورة شعار (PNG، GIF، JPG)"
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:46
+msgid "Upload"
+msgstr "تحميل"
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:55
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr " ملف الصور<strong>%s</strong> غير قابل للكتابة "
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:56
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass لا يمكن تحميل صورة الشعار من لوحة الإدارة."
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:57
+msgid "Please make the aforementioned image folder writable."
+msgstr "يرجى التأكد المذكورة آنفا للكتابة مجلد الصور."
+
+#: /var/www/osclass-themes-git/bender/admin/header.php:62
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "لجعل للكتابة الدليل تحت UNIX تنفيذ هذا الأمر من قذيفة:"
+
+#: /var/www/osclass-themes-git/bender/admin/settings.php:14
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "وأود أن تسهم في تطوير Osclass بتبرع من"
+
+#: /var/www/osclass-themes-git/bender/admin/settings.php:19
+msgid "Custom"
+msgstr "عرف"
+
+#: /var/www/osclass-themes-git/bender/admin/settings.php:20
+msgid "Donate"
+msgstr "تبرع"
+
+#: /var/www/osclass-themes-git/bender/admin/settings.php:30
+msgid "Search placeholder"
+msgstr "نائب بحث"
+
+#: /var/www/osclass-themes-git/bender/admin/settings.php:34
+msgid "Footer link"
+msgstr "رابط تذييل"
+
+#: /var/www/osclass-themes-git/bender/admin/settings.php:36
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text: "
+
+#: /var/www/osclass-themes-git/bender/admin/settings.php:37
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong> "
+
+#: /var/www/osclass-themes-git/bender/admin/settings.php:41
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: /var/www/osclass-themes-git/bender/common/head.php:4
+msgid "Cancel"
+msgstr "إلغاء"
 
